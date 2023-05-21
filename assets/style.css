@@ -1,0 +1,11 @@
+.root {
+  margin: 15px;
+  background-color: rgb(113, 225, 253);
+}
+
+h1 {
+  text-align: center;
+}
+ol {
+  font-size: 19px;
+}
